@@ -8,7 +8,7 @@ Filename: ./debs/kgtwexport.dep
 Size: 15672
 MD5sum: a20222dc1edf4b626d00f19c45d590d2
 Description: kgtw exporter
-Name: New Package
+Name: 出庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
 Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-export
 
@@ -22,6 +22,6 @@ Filename: ./debs/kgtwimport.deb
 Size: 43838
 MD5sum: ed7ddcf06e0061a6fcf3b8e5fe464949
 Description: kgtw importer
-Name: kgtw importer
+Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
 Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-import
