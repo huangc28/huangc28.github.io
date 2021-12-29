@@ -1,0 +1,13 @@
+Package: com.huangc28.kgtw-export
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: a20222dc1edf4b626d00f19c45d590d2
+Description: kgtw exporter
+Name: New Package
+Author: Bryan Huang <huangchiheng@gmail.com>
+Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-export
