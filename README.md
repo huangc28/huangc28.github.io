@@ -65,6 +65,20 @@ md5 com.huangc28.kgtwcollect_0.1.0_iphoneos-arm.deb
 
 ```
 
+## Generate Packages.bz2 file
+
+Once we've done filling up the package detail for that extension, we need to generate Package.bz2 file so that cydia can enlist the extension into our source.
+
+
+```
+rm Package.bz2
+
+bzip2 -k Packages
+```
+
+Push to remote repository to let it take effect. You should see this new extension listed in the source once refreshed.
+
+
 
 
 
