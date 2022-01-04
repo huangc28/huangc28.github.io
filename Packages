@@ -11,6 +11,19 @@ Description: inapp item info collector
 Name: 採集
 Author: Bryan Huang <huangchiheng@gmail.com>
 
+Package: com.huangc28.import
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/import.deb
+Size: 45660
+MD5sum:   ca39fdc9ffa3d286f3e1cf2982a06122
+Description: import in game item to inventory
+Name: 入庫
+Author: Bryan Huang <huangchiheng@gmail.com>
+
 Package: com.huangc28.kgtw-export
 Version: 0.1.0
 Section: Tweaks
