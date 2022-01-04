@@ -24,6 +24,19 @@ Description: import in game item to inventory
 Name: 入庫
 Author: Bryan Huang <huangchiheng@gmail.com>
 
+Package: com.huangc28.export
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/export.deb
+Size: 21494
+MD5sum: a3e57d5988ef3de77a916b4084c97dde
+Description: export in game item from inventory user game account.
+Name: 出庫
+Author: Bryan Huang <huangchiheng@gmail.com>
+
 Package: com.huangc28.kgtw-export
 Version: 0.1.0
 Section: Tweaks
