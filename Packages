@@ -25,3 +25,16 @@ Description: kgtw importer
 Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
 Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-import
+
+Package: com.huangc28.com.huangc28.kgtwcollect
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/kgtwcollect.deb
+Size: 14096
+MD5sum: 0f06358c14e79669d07bf34333b16bef
+Description: kgtw collector
+Name: 採集-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
