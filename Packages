@@ -1,3 +1,16 @@
+Package: com.huangc28.inappcollect
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/inappcollect.deb
+Size: 17260
+MD5sum:  187cdfc1ffb7eb79e340715a93ce4ecb
+Description: inapp item info collector
+Name: 採集
+Author: Bryan Huang <huangchiheng@gmail.com>
+
 Package: com.huangc28.kgtw-export
 Version: 0.1.0
 Section: Tweaks
@@ -26,7 +39,7 @@ Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
 Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-import
 
-Package: com.huangc28.com.huangc28.kgtwcollect
+Package: com.huangc28.kgtwcollect
 Version: 0.1.0
 Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>

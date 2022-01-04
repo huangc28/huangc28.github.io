@@ -1,4 +1,4 @@
-# Release uncle atuu vendor extensions
+# Uncle atuu vendor extensions Releases
 
 This write up serves as a guideline to release new uncle atuu extension.
 
