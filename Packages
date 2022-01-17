@@ -1,0 +1,79 @@
+Package: com.huangc28.inappcollect
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/inappcollect.deb
+Size: 17260
+MD5sum:  187cdfc1ffb7eb79e340715a93ce4ecb
+Description: inapp item info collector
+Name: 採集
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.import
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/import.deb
+Size: 45660
+MD5sum: ca39fdc9ffa3d286f3e1cf2982a06122
+Description: import in game item to inventory
+Name: 入庫
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.export
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/export.deb
+Size: 21494
+MD5sum: a3e57d5988ef3de77a916b4084c97dde
+Description: export in game item from inventory user game account.
+Name: 出庫
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.kgtw-export
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/kgtwexport.dep
+Size: 15672
+MD5sum: a20222dc1edf4b626d00f19c45d590d2
+Description: kgtw exporter
+Name: 出庫-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
+Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-export
+
+Package: com.huangc28.kgtw-import
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/kgtwimport.deb
+Size: 74352
+MD5sum: 440df5a64fe3e35d7ddeeb36a27c0d3e
+Description: kgtw importer
+Name: 入庫-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
+Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-import
+
+Package: com.huangc28.kgtwcollect
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/kgtwcollect.deb
+Size: 14096
+MD5sum: 0f06358c14e79669d07bf34333b16bef
+Description: kgtw collector
+Name: 採集-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
