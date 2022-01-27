@@ -58,8 +58,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/kgtwimport.deb
-Size: 74352
-MD5sum: 440df5a64fe3e35d7ddeeb36a27c0d3e
+Size: 48624
+MD5sum: 811fe8e7bd280a96f47830555f5be285
 Description: kgtw importer
 Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
