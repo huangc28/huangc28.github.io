@@ -31,8 +31,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/export.deb
-Size: 21494
-MD5sum: a3e57d5988ef3de77a916b4084c97dde
+Size: 32118
+MD5sum:  87674cd184877b929b312fbb2d55d7b0
 Description: export in game item from inventory user game account.
 Name: 出庫
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -44,8 +44,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/kgtwexport.dep
-Size: 15672
-MD5sum: a20222dc1edf4b626d00f19c45d590d2
+Size: 29480
+MD5sum: 4be97cb2a1f3c9cd2c4e7867dddf322f
 Description: kgtw exporter
 Name: 出庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -58,8 +58,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/kgtwimport.deb
-Size: 48624
-MD5sum: 811fe8e7bd280a96f47830555f5be285
+Size: 48556
+MD5sum: 479d2fb1321739618cbc29be282d4851
 Description: kgtw importer
 Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
