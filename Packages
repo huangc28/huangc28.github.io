@@ -31,8 +31,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/export.deb
-Size: 32118
-MD5sum:  87674cd184877b929b312fbb2d55d7b0
+Size: 31648
+MD5sum: 9f6e547956f479118df2920f817de34a
 Description: export in game item from inventory user game account.
 Name: 出庫
 Author: Bryan Huang <huangchiheng@gmail.com>
