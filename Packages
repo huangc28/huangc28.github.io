@@ -5,8 +5,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/inappcollect.deb
-Size: 17260
-MD5sum:  187cdfc1ffb7eb79e340715a93ce4ecb
+Size: 21006
+MD5sum: b8a606d297fcfd5b8493cc07c246d58b
 Description: inapp item info collector
 Name: 採集
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -72,8 +72,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/kgtwcollect.deb
-Size: 14096
-MD5sum: 0f06358c14e79669d07bf34333b16bef
+Size: 19444
+MD5sum: 54ad999640d446c2b9eeb4903be5ce16
 Description: kgtw collector
 Name: 採集-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
