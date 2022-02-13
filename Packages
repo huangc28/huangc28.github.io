@@ -19,7 +19,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/import.deb
 Size: 49548
-MD5sum: 89c4075bd4b712bef31fd02bdcae42c8
+MD5sum: d2e55656bca00f03e3d271e8b33ef7f0
 Description: import in game item to inventory
 Name: 入庫
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -59,7 +59,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/kgtwimport.deb
 Size: 48516
-MD5sum: b277f80c124013c05ebb7f5fff8cd024
+MD5sum: 18032d893fe0e2b7e11f7de976813ab5
 Description: kgtw importer
 Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
