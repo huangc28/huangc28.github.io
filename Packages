@@ -18,8 +18,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/import.deb
-Size: 114628
-MD5sum: d2e55656bca00f03e3d271e8b33ef7f0
+Size: 114532
+MD5sum: 57645fd4f594ed8aa941ead1268063cc
 Description: import in game item to inventory
 Name: 入庫
 Author: Bryan Huang <huangchiheng@gmail.com>
