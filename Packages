@@ -18,8 +18,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/newmyth-collect.deb
-Size: 109066
-MD5sum: 68f41fcdcc3238b3394ece6a7f7c2009
+Size: 36464
+MD5sum: 3ca4f5f8bcc7e033e33f01ddbe696721
 Description: 採集-新仙俠
 Name: 採集-新仙俠
 Author: Bryan Huang <huangchiheng@gmail.com>
