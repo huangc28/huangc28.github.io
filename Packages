@@ -11,6 +11,32 @@ Description: inapp item info collector
 Name: 採集
 Author: Bryan Huang <huangchiheng@gmail.com>
 
+Package: com.huangc28.newmyth-collect
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/newmythcollect.deb
+Size: 109066
+MD5sum: 68f41fcdcc3238b3394ece6a7f7c2009
+Description: 採集-新仙俠
+Name: 採集-新仙俠
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.kgtwcollect
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/kgtwcollect.deb
+Size: 19444
+MD5sum: 54ad999640d446c2b9eeb4903be5ce16
+Description: kgtw collector
+Name: 採集-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
+
 Package: com.huangc28.import
 Version: 0.1.0
 Section: Tweaks
@@ -24,32 +50,19 @@ Description: import in game item to inventory
 Name: 入庫
 Author: Bryan Huang <huangchiheng@gmail.com>
 
-Package: com.huangc28.export
+Package: com.huangc28.newmyth-import
 Version: 0.1.0
 Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (<7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/export.deb
-Size: 31648
-MD5sum: 9f6e547956f479118df2920f817de34a
-Description: export in game item from inventory user game account.
-Name: 出庫
+Filename: ./debs/newmyth-import.deb
+Size: 110379
+MD5sum: 2fa48fc732db0b8ecec3969fd80865c4
+Description: 入庫-新仙俠
+Name: 入庫-新仙俠
 Author: Bryan Huang <huangchiheng@gmail.com>
-
-Package: com.huangc28.kgtw-export
-Version: 0.1.0
-Section: Tweaks
-Maintainer: Bryan Huang <huangchiheng@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/kgtwexport.dep
-Size: 29480
-MD5sum: 4be97cb2a1f3c9cd2c4e7867dddf322f
-Description: kgtw exporter
-Name: 出庫-傳說對決
-Author: Bryan Huang <huangchiheng@gmail.com>
-Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-export
+Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-import
 
 Package: com.huangc28.kgtw-import
 Version: 0.1.0
@@ -65,15 +78,42 @@ Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
 Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-import
 
-Package: com.huangc28.kgtwcollect
+Package: com.huangc28.export
 Version: 0.1.0
 Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/kgtwcollect.deb
-Size: 19444
-MD5sum: 54ad999640d446c2b9eeb4903be5ce16
-Description: kgtw collector
-Name: 採集-傳說對決
+Filename: ./debs/export.deb
+Size: 31648
+MD5sum: 9f6e547956f479118df2920f817de34a
+Description: export in game item from inventory user game account.
+Name: 出庫
 Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.newmyth-export
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/newmyth-export.deb
+Size: 32976
+MD5sum: 7305a36ef6d84fdb9f8d4eb378be46b5
+Description: export in game item from inventory user game account.
+Name: 出庫-新仙俠
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.kgtw-export
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/kgtwexport.dep
+Size: 29480
+MD5sum: 4be97cb2a1f3c9cd2c4e7867dddf322f
+Description: kgtw exporter
+Name: 出庫-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
+Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-export
