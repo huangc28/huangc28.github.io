@@ -163,8 +163,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/kgtw-export.dep
-Size: 34976
-MD5sum: 7eb2bceeb2c13dacdb45b661ab9c2b88
+Size: 34956
+MD5sum: caf90d287cf9e84495b720c86fcd1f9e
 Description: kgtw exporter
 Name: 出庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
