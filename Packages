@@ -5,8 +5,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/inappcollect.deb
-Size: 21006
-MD5sum: b8a606d297fcfd5b8493cc07c246d58b
+Size: 48568
+MD5sum: d28a8418bb85150a0e767fb49bc6461b
 Description: inapp item info collector
 Name: 採集
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -18,8 +18,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/newmyth-collect.deb
-Size: 36464
-MD5sum: 3ca4f5f8bcc7e033e33f01ddbe696721
+Size: 36262
+MD5sum: beeb78a4058019b3e294d45a3b53c0d3
 Description: 採集-新仙俠
 Name: 採集-新仙俠
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -30,11 +30,37 @@ Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/kgtwcollect.deb
-Size: 19444
-MD5sum: 54ad999640d446c2b9eeb4903be5ce16
-Description: kgtw collector
+Filename: ./debs/kgtw-collect.deb
+Size: 23284
+MD5sum: 70a4c9cedec00f3143639b3d41864b25
+Description: 採集-傳說對決
 Name: 採集-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.twysios-collector
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/twysios-collector.deb
+Size: 36304
+MD5sum: da9e1f9f20e5135227a519dfaf29360c
+Description: 採集-伊蘇6
+Name: 採集-伊蘇6
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.ty-collector
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ty-collector.deb
+Size: 23306
+MD5sum: d7883dfaef119e754af4595133407901
+Description: 採集-天諭
+Name: 採集-天諭
 Author: Bryan Huang <huangchiheng@gmail.com>
 
 Package: com.huangc28.import
@@ -44,8 +70,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/import.deb
-Size: 114092
-MD5sum: 0e5844b93e7452f58c9bafd0e337aa13
+Size: 129130
+MD5sum: c316e7861b5686084d162c5acb88b509
 Description: import in game item to inventory
 Name: 入庫
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -57,8 +83,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (<7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/newmyth-import.deb
-Size: 110379
-MD5sum: 2fa48fc732db0b8ecec3969fd80865c4
+Size: 111700
+MD5sum: 4d36c98c1018c75a3804c27bd1ee7fc8
 Description: 入庫-新仙俠
 Name: 入庫-新仙俠
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -73,10 +99,36 @@ Architecture: iphoneos-arm
 Filename: ./debs/kgtwimport.deb
 Size: 109066
 MD5sum: 18c60f4894426ae8ed42580919838151
-Description: kgtw importer
+Description: 入庫-傳說對決
 Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
 Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-import
+
+Package: com.huangc28.twysios-importer
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/twysios-importer.deb
+Size: 112016
+MD5sum: 973f95920d750961d70cc9a572210cd0
+Description: 入庫-伊蘇6
+Name: 入庫-伊蘇6
+Author: Bryan Huang <huangchiheng@gmail.com>
+
+Package: com.huangc28.ty-importer
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/twysios-importer.deb
+Size: 112086
+MD5sum: bf57925b697b612f8b753b7cf61e1b4e
+Description: 入庫-天諭
+Name: 入庫-天諭
+Author: Bryan Huang <huangchiheng@gmail.com>
 
 Package: com.huangc28.export
 Version: 0.1.0
@@ -85,9 +137,9 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/export.deb
-Size: 31648
-MD5sum: 9f6e547956f479118df2920f817de34a
-Description: export in game item from inventory user game account.
+Size: 42698
+MD5sum: 31617ce0f939596fe91f78f3b9daa061
+Description: 出庫
 Name: 出庫
 Author: Bryan Huang <huangchiheng@gmail.com>
 
@@ -110,10 +162,24 @@ Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/kgtwexport.dep
-Size: 29480
-MD5sum: 4be97cb2a1f3c9cd2c4e7867dddf322f
+Filename: ./debs/kgtw-export.dep
+Size: 34976
+MD5sum: 7eb2bceeb2c13dacdb45b661ab9c2b88
 Description: kgtw exporter
 Name: 出庫-傳說對決
+Author: Bryan Huang <huangchiheng@gmail.com>
+Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-export
+
+Package: com.huangc28.twsios-exporter
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Bryan Huang <huangchiheng@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/twysios-exporter.deb
+Size: 29292
+MD5sum: 2eb7ad705eeed403f46a49c9f0a1335e
+Description: 出庫-伊蘇6
+Name: 出庫-伊蘇6
 Author: Bryan Huang <huangchiheng@gmail.com>
 Depiction: https://huangc28.github.io/depictions/?p=com.huangc28.kgtw-export
