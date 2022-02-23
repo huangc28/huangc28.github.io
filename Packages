@@ -150,9 +150,9 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/newmyth-export.deb
-Size: 32976
-MD5sum: 7305a36ef6d84fdb9f8d4eb378be46b5
-Description: export in game item from inventory user game account.
+Size: 33284
+MD5sum: 78d0abc5015bc9fcfd5d0ddc167762c1
+Description: 出庫-新仙俠
 Name: 出庫-新仙俠
 Author: Bryan Huang <huangchiheng@gmail.com>
 
