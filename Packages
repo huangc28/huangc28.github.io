@@ -80,7 +80,7 @@ Package: com.huangc28.newmyth-import
 Version: 0.1.0
 Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>
-Depends: firmware (<7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/newmyth-import.deb
 Size: 111660
