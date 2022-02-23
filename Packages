@@ -83,8 +83,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (<7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/newmyth-import.deb
-Size: 111700
-MD5sum: 4d36c98c1018c75a3804c27bd1ee7fc8
+Size: 111660
+MD5sum: 86430e314642ba408bf21340de9663e0
 Description: 入庫-新仙俠
 Name: 入庫-新仙俠
 Author: Bryan Huang <huangchiheng@gmail.com>
