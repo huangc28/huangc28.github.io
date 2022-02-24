@@ -124,8 +124,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/twysios-importer.deb
-Size: 112086
-MD5sum: bf57925b697b612f8b753b7cf61e1b4e
+Size: 112162
+MD5sum: a49ee3862d19a608d6dba955ba447cb7
 Description: 入庫-天諭
 Name: 入庫-天諭
 Author: Bryan Huang <huangchiheng@gmail.com>
