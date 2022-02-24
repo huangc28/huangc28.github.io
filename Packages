@@ -96,9 +96,9 @@ Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/kgtwimport.deb
-Size: 109066
-MD5sum: 18c60f4894426ae8ed42580919838151
+Filename: ./debs/kgtw-import.deb
+Size: 111244
+MD5sum: fa519c753f4671b3ba08364d9204c4b3
 Description: 入庫-傳說對決
 Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
