@@ -123,7 +123,7 @@ Section: Tweaks
 Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/twysios-importer.deb
+Filename: ./debs/ty-importer.deb
 Size: 112070
 MD5sum: 3bea8b30ca255622f24b2c39ba31e8d2
 Description: 入庫-天諭
