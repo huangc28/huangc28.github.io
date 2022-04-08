@@ -70,8 +70,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/import.deb
-Size: 129130
-MD5sum: c316e7861b5686084d162c5acb88b509
+Size: 79612
+MD5sum: e89939ffdff31ca447b33d307e82ef86
 Description: import in game item to inventory
 Name: 入庫
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -83,8 +83,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/newmyth-import.deb
-Size: 112532
-MD5sum: e265b73eb8e0aced6db95821de10ff2b
+Size: 67568
+MD5sum: f07ced57e7ee45d7bd13bf58825ed035
 Description: 入庫-新仙俠
 Name: 入庫-新仙俠
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -97,8 +97,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/kgtw-import.deb
-Size: 111244
-MD5sum: fa519c753f4671b3ba08364d9204c4b3
+Size: 66822
+MD5sum: d959500a3a2c9210bfb540b9d002481c
 Description: 入庫-傳說對決
 Name: 入庫-傳說對決
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -111,8 +111,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/twysios-importer.deb
-Size: 112428
-MD5sum: cb39544880e18df83f4589c2d40aeab8
+Size: 67758
+MD5sum: 39d037f1777e692dc6f2f4dd2b7d5328
 Description: 入庫-伊蘇6
 Name: 入庫-伊蘇6
 Author: Bryan Huang <huangchiheng@gmail.com>
@@ -124,8 +124,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ty-importer.deb
-Size: 112070
-MD5sum: 3bea8b30ca255622f24b2c39ba31e8d2
+Size: 67650
+MD5sum: 58da474f87d1a0383022603e2a4b847c
 Description: 入庫-天諭
 Name: 入庫-天諭
 Author: Bryan Huang <huangchiheng@gmail.com>
