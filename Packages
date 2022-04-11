@@ -137,8 +137,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/export.deb
-Size: 42698
-MD5sum: 31617ce0f939596fe91f78f3b9daa061
+Size: 42306
+MD5sum: c1e255833c84e547bec3584b5b5f69c4
 Description: 出庫
 Name: 出庫
 Author: Bryan Huang <huangchiheng@gmail.com>
