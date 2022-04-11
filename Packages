@@ -177,8 +177,8 @@ Maintainer: Bryan Huang <huangchiheng@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/twysios-exporter.deb
-Size: 29292
-MD5sum: 2eb7ad705eeed403f46a49c9f0a1335e
+Size: 28538
+MD5sum: e3cf281695078d0b43db83f236c062af
 Description: 出庫-伊蘇6
 Name: 出庫-伊蘇6
 Author: Bryan Huang <huangchiheng@gmail.com>
