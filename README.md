@@ -77,3 +77,7 @@ bzip2 -k Packages
 ```
 
 Push to remote repository to let it take effect. You should see this new extension listed in the source once refreshed.
+
+#Reference
+
+- https://github.com/MDausch/Example-Cydia-Repository
